@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shane
 - 👀 I’m interested in Building Software that will blow your mind away!
-- 🌱 I’m currently learning ReactJS and Angular.
+- 🌱 I’m currently learning Software Developement.
 - 💞️ I’m looking to collaborate on the most adavanced software applications that have ever been built in the history of mankind!
 - 📫 How to reach me webdevelopershane@gmail.com
 - 😄 Pronouns: The only limit is your own imagination!
